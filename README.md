@@ -1,2 +1,2 @@
 # restaurant_menupage
-A menu page of a restaurant 
+A great menu page of a restaurant 
